@@ -1,4 +1,4 @@
-package lab4_var_3_1;
+package Prototype;
 
 public class WhiteTheme extends ChessTheme {
     private String themeColor;

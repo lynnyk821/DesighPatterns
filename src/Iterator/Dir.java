@@ -1,6 +1,5 @@
-package lab4_var_3_3;
+package Iterator;
 
-import lombok.Getter;
 import java.util.ArrayList;
 import java.util.List;
 

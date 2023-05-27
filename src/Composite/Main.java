@@ -1,4 +1,4 @@
-package lab4_var3_2;
+package Composite;
 
 public class Main {
     public static void main(String[] args) {

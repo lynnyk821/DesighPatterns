@@ -1,4 +1,4 @@
-package lab4_var3_2;
+package Composite;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lab4_var_3_3;
+package Iterator;
 
 public class File {
     String absolutePath;

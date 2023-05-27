@@ -1,4 +1,4 @@
-package lab4_var_3_1;
+package Prototype;
 
 public class Main {
     public static void main(String[] args) {

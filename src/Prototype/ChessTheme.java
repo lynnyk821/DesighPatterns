@@ -1,4 +1,4 @@
-package lab4_var_3_1;
+package Prototype;
 
 public abstract class ChessTheme {
     protected final int piece;

@@ -1,4 +1,4 @@
-package lab4_var3_2;
+package Composite;
 
 public interface Component {
     double calcPrice();
