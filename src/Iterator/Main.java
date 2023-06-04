@@ -13,8 +13,12 @@ public class Main {
 
         rootDir.addFile(file1);
         rootDir.addFile(file2);
-        rootDir.addFile(file3);
-        rootDir.addFile(file4);
+        Dir d2 = new Dir();
+        rootDir.dirs.add(d2);
+        d2.addFile(file3);
+        Dir d3 = new Dir();
+        d2.dirs.add(d3);
+        d3.addFile(file4);
 
         // Створюємо ітератор
         FileIterator fileIterator = rootDir.iterator();
